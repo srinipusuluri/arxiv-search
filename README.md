@@ -3,7 +3,8 @@
 A simple **AI-powered search engine for ArXiv** papers, built with **NiceGUI**.  
 I developed this project with the help of **Cline AI Agent inside VS Code**, which acted like a coding pair programmer.  
 
-![Demo Screenshot](screenshot.png)  
+![Demo Screenshot] <img width="937" height="753" alt="image" src="https://github.com/user-attachments/assets/2ee40bb4-c7e0-4f28-af96-7064f0b9c119" />
+
 
 ---
 
